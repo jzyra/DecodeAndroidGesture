@@ -164,7 +164,7 @@ public final class DecodeAndroidGesture {
 	/**
 		* The function print the usage.
 	*/
-  private static void printHelp() {
+	private static void printHelp() {
 		System.out.println("NAME");
 		System.out.println("\tDecodeAndroidGesture.jar\n");
 		System.out.println("SYNOPSIS");
