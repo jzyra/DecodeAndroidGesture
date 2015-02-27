@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Formatter;
 
 /**
-	* Read sequence gesture for validate Android 3x3 pattern in gesture.key file.
+	* Read sequence gesture for validate Android's pattern lock screen in gesture.key file.
 	* @author Jeremy ZYRA
 	* @version 1.0
 */
